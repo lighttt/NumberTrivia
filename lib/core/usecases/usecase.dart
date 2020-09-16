@@ -1,7 +1,6 @@
 import 'package:dartz/dartz.dart';
 import 'package:equatable/equatable.dart';
 import 'package:number_trivia/core/error/failures.dart';
-import 'package:number_trivia/features/number_trivia/domain/entities/number_trivia.dart';
 
 /// UseCase is an abstract class that will help us to extend a call function
 /// which is used by all the use cases hence we do not need to make multiple naming
